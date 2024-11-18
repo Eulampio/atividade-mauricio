@@ -12,4 +12,4 @@ exercise = sns.load_dataset("exercise")
 
 # check the head
 
-exercise.head()
+print (exercise.head(2))

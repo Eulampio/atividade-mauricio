@@ -5,6 +5,6 @@ def esta_ordenada(lista):
             return False  
     return True  
 
-lista = [9, 6, 3, 7, 5]
+lista = [1, 6, 3, 7, 5]
 resultado = esta_ordenada(lista)
 print("A lista está ordenada em ordem crescente? {resultado}")
